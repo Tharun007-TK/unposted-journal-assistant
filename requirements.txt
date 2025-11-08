@@ -1,0 +1,16 @@
+streamlit
+requests
+python-dotenv
+cryptography
+soundfile
+numpy
+pandas
+plotly
+streamlit-webrtc
+av
+aiortc
+sentence-transformers
+faiss-cpu
+transformers
+groq
+pytest

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environments
+.env
+*.env
+venv/
+.env.*
+
+# Streamlit cache
+.streamlit/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+
+# Local data
+journal_data.db
+*.db
+backup/
+
+# Logs
+*.log
+log/
